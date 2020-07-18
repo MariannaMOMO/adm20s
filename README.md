@@ -10,7 +10,15 @@ Códigos del grupo DDWG20 Sabatino del Diplomado en Diseño Web de Centro ADM.
 
 ## [Estudiantes](https://docs.google.com/spreadsheets/d/1yIYaCIgOTk29EZhW4uxyb-bv978XZmniL5n2gaweE3Q/edit?ts=5f10c3b9)
 
--
+- mariana.mon.mo@gmail.com
+- irissfdz@gmail.com
+- vanesa.alvarado.izcalli@gmail.com
+- estradarivera17@gmail.com
+- julieta.m.sevilla@gmail.com
+- zobeck.ilustra@gmail.com
+- weblucia01@gmail.com
+- anclok7801@gmail.com
+- janetgarcia03071@gmail.com
 
 ## Módulos del Diplomado
 
