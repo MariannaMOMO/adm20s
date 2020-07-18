@@ -94,4 +94,18 @@ Códigos del grupo DDWG20 Sabatino del Diplomado en Diseño Web de Centro ADM.
 
 ## Recursos
 
+- [Figma](https://www.figma.com/)
+- [Diseño Atómico](https://bradfrost.com/blog/post/atomic-web-design/)
+- [Patrones de Diseño Atómico](https://demo.patternlab.io/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Flexbox CSS - Blog jonmircha](https://jonmircha.com/flexbox)
+- [Curso de Flexbox CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys)
+- [CSS Reference](https://cssreference.io/)
+- [Configuración de VSCode](https://jonmircha.com/vscode)
+- [Emmet](https://emmet.io/)
+- [¿Por qué aplicar box-sizing?](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+
 ## Actividades
+
+- Para la sesión 2, enviar por correo un _sketch_ de su portafolio web, versión (_Mobile_ y _Desktop_).
