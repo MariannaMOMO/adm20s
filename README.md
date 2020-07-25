@@ -109,3 +109,4 @@ Códigos del grupo DDWG20 Sabatino del Diplomado en Diseño Web de Centro ADM.
 ## Actividades
 
 - Para la sesión 2, enviar por correo un _sketch_ de su portafolio web, versión (_Mobile_ y _Desktop_).
+- Para la sesión 3, enviar un _wireframe_ de su portafolio web, versión (_Mobile_ y _Desktop_).

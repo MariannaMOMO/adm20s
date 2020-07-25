@@ -1,0 +1,61 @@
+html {
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  /* background-color: thistle; */
+  display: flex;
+  flex-direction: column;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+main {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  flex-grow: 1;
+}
+
+.container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.header,
+.footer {
+  padding: 0.5rem;
+  text-align: center;
+  background-color: steelblue;
+  color: #fff;
+}
+
+.fixed-top {
+  position: fixed;
+  width: 100%;
+  top: 0;
+}
+
+.fixed-bottom {
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
+
+.sticky-top {
+  position: sticky;
+  width: 100%;
+  top: 0;
+}
