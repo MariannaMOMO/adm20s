@@ -103,10 +103,11 @@ Códigos del grupo DDWG20 Sabatino del Diplomado en Diseño Web de Centro ADM.
 - [Curso de Flexbox CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys)
 - [CSS Reference](https://cssreference.io/)
 - [Configuración de VSCode](https://jonmircha.com/vscode)
-- [Emmet](https://emmet.io/)
+- [Emmet.io](https://emmet.io/)
 - [¿Por qué aplicar box-sizing?](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 
 ## Actividades
 
 - Para la sesión 2, enviar por correo un _sketch_ de su portafolio web, versión (_Mobile_ y _Desktop_).
 - Para la sesión 3, enviar un _wireframe_ de su portafolio web, versión (_Mobile_ y _Desktop_).
+- Para la sesión 4, integrar el patrón de navegación en tu portafolio web, versión (_Mobile_ y _Desktop_).
