@@ -105,6 +105,8 @@ Códigos del grupo DDWG20 Sabatino del Diplomado en Diseño Web de Centro ADM.
 - [Configuración de VSCode](https://jonmircha.com/vscode)
 - [Emmet.io](https://emmet.io/)
 - [¿Por qué aplicar box-sizing?](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+- [Fluid Responsive Design](https://utopia.fyi/)
+- [Curso JavaScript](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA)
 
 ## Actividades
 
