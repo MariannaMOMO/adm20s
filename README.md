@@ -107,6 +107,14 @@ Códigos del grupo DDWG20 Sabatino del Diplomado en Diseño Web de Centro ADM.
 - [¿Por qué aplicar box-sizing?](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 - [Fluid Responsive Design](https://utopia.fyi/)
 - [Curso JavaScript](https://www.youtube.com/playlist?list=PLvq-jIkSeTUZ6QgYYO3MwG9EMqC-KoLXA)
+- [960 Grid System](https://960.gs/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Foundation](https://get.foundation/index.html)
+- [Materialize](https://materializecss.com/)
+- [Pure CSS](https://purecss.io/)
+- [Bulma](https://bulma.io/)
+- [Semantic UI](https://semantic-ui.com/)
+- [TailWind](https://tailwindcss.com/)
 
 ## Actividades
 
