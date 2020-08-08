@@ -119,9 +119,11 @@ Códigos del grupo DDWG20 Sabatino del Diplomado en Diseño Web de Centro ADM.
 - [Bootstrap Material Design](https://mdbootstrap.com/)
 - [Bootswatch](https://bootswatch.com/)
 - [Avant UI](https://www.avantui.com/)
+- [FontAwesome](https://fontawesome.com/)
 
 ## Actividades
 
 - Para la sesión 2, enviar por correo un _sketch_ de su portafolio web, versión (_Mobile_ y _Desktop_).
 - Para la sesión 3, enviar un _wireframe_ de su portafolio web, versión (_Mobile_ y _Desktop_).
 - Para la sesión 4, integrar el patrón de navegación en tu portafolio web, versión (_Mobile_ y _Desktop_).
+- Para la sesión 6, el portafolio web creado con CSS artesanal, hacerlo con Bootstrap, versión (_Mobile_ y _Desktop_).
