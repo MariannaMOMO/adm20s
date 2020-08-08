@@ -115,6 +115,10 @@ Códigos del grupo DDWG20 Sabatino del Diplomado en Diseño Web de Centro ADM.
 - [Bulma](https://bulma.io/)
 - [Semantic UI](https://semantic-ui.com/)
 - [TailWind](https://tailwindcss.com/)
+- [CDN JS](https://cdnjs.cloudflare.com/)
+- [Bootstrap Material Design](https://mdbootstrap.com/)
+- [Bootswatch](https://bootswatch.com/)
+- [Avant UI](https://www.avantui.com/)
 
 ## Actividades
 
