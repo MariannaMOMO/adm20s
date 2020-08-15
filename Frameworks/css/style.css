@@ -15,6 +15,74 @@
   --navbar-height: 48px;
 }
 
+/* ********** Reset Styles ********** */
 body {
   font-family: "Raleway", sans-serif;
+}
+
+a {
+  color: var(--link-color);
+  transition: all 0.3s ease-in-out;
+}
+
+a:hover {
+  color: var(--first-color);
+}
+
+/* ********** Bootstrap Styles ********** */
+.navbar-brand img {
+  width: auto;
+  height: var(--navbar-height);
+}
+
+.nav-link {
+  padding-left: 0.5rem !important;
+  font-size: 1.15rem;
+  font-weight: bold;
+  color: var(--first-color) !important;
+}
+
+.nav-link:hover,
+.nav-item:hover .nav-link.dropdown-toggle {
+  color: var(--white) !important;
+  background-color: var(--first-alpha-color);
+}
+
+.dropdown-item {
+  color: var(--first-alpha-color);
+  font-weight: bold;
+}
+
+.dropdown-item:hover {
+  color: var(--third-alpha-color);
+}
+
+/* ********** My Styles ********** */
+.bg-second-color {
+  background-color: var(--second-color);
+}
+
+/* ********** Media Queries ********** */
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .nav-link {
+    padding-left: 0 !important;
+  }
+
+  .nav-link:hover,
+  .nav-item:hover .nav-link.dropdown-toggle {
+    background-color: transparent;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
 }
