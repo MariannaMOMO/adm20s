@@ -120,6 +120,11 @@ Códigos del grupo DDWG20 Sabatino del Diplomado en Diseño Web de Centro ADM.
 - [Bootswatch](https://bootswatch.com/)
 - [Avant UI](https://www.avantui.com/)
 - [FontAwesome](https://fontawesome.com/)
+- [FormSubmit](https://formsubmit.co/)
+- [AddThis](https://www.addthis.com/)
+- [Drift](https://www.drift.com/)
+- [Disqus](https://disqus.com/)
+- [Tiny Letter](https://tinyletter.com/)
 
 ## Actividades
 
